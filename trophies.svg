@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="220" viewBox="0 0 480 220">
+  <defs>
+    <linearGradient id="cardBgTrophy" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#120e24" />
+      <stop offset="100%" stop-color="#0b0817" />
+    </linearGradient>
+
+    <linearGradient id="goldGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ffe082"/>
+      <stop offset="50%" stop-color="#ffb300"/>
+      <stop offset="100%" stop-color="#ff8f00"/>
+    </linearGradient>
+
+    <linearGradient id="trophyShine" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0" />
+      <stop offset="50%" stop-color="#ffffff" stop-opacity="0.4" />
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0" />
+    </linearGradient>
+
+    <filter id="glowTrophy" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@600;700&amp;family=Outfit:wght@600;800&amp;display=swap');
+    .title-trophy { font-family: 'Outfit', sans-serif; font-size: 18px; font-weight: 800; fill: #ffe082; }
+    .t-name { font-family: 'Outfit', sans-serif; font-size: 13px; font-weight: 700; fill: #ffffff; }
+    .t-rank { font-family: 'Fira Code', monospace; font-size: 11px; fill: #ff79c6; font-weight: 600; }
+
+    @keyframes popIn {
+      0% { transform: scale(0.8); opacity: 0; }
+      100% { transform: scale(1); opacity: 1; }
+    }
+    .t-cell { animation: popIn 0.8s cubic-bezier(0.175, 0.885, 0.32, 1.275) forwards; }
+  </style>
+
+  <rect width="480" height="220" rx="16" fill="url(#cardBgTrophy)" stroke="#ffe082" stroke-opacity="0.3" stroke-width="1.5"/>
+
+  <!-- Title -->
+  <text x="24" y="36" class="title-trophy">🏆 GITHUB ACHIEVEMENTS</text>
+  <line x1="24" y1="48" x2="456" y2="48" stroke="#ffffff" stroke-opacity="0.1" stroke-width="1" />
+
+  <!-- Trophy Grid 2x2 -->
+  <g transform="translate(24, 60)">
+    <!-- Cell 1: Commit Master -->
+    <g class="t-cell" transform="translate(0, 0)">
+      <rect width="206" height="62" rx="10" fill="#1b1433" stroke="#ffb300" stroke-opacity="0.4" stroke-width="1"/>
+      <circle cx="32" cy="31" r="18" fill="url(#goldGrad)" filter="url(#glowTrophy)"/>
+      <text x="32" y="37" text-anchor="middle" font-size="16">🏆</text>
+      <text x="60" y="27" class="t-name">Commit Master</text>
+      <text x="60" y="44" class="t-rank">Rank: S Tier (1k+)</text>
+    </g>
+
+    <!-- Cell 2: Android Architect -->
+    <g class="t-cell" transform="translate(226, 0)">
+      <rect width="206" height="62" rx="10" fill="#1b1433" stroke="#00f2fe" stroke-opacity="0.4" stroke-width="1"/>
+      <circle cx="32" cy="31" r="18" fill="#00f2fe" filter="url(#glowTrophy)"/>
+      <text x="32" y="37" text-anchor="middle" font-size="16">📱</text>
+      <text x="60" y="27" class="t-name">Android Architect</text>
+      <text x="60" y="44" class="t-rank">Kotlin Expert</text>
+    </g>
+
+    <!-- Cell 3: Full Stack Ninja -->
+    <g class="t-cell" transform="translate(0, 74)">
+      <rect width="206" height="62" rx="10" fill="#1b1433" stroke="#ff4081" stroke-opacity="0.4" stroke-width="1"/>
+      <circle cx="32" cy="31" r="18" fill="#ff4081" filter="url(#glowTrophy)"/>
+      <text x="32" y="37" text-anchor="middle" font-size="16">⚡</text>
+      <text x="60" y="27" class="t-name">Full Stack Ninja</text>
+      <text x="60" y="44" class="t-rank">React &amp; Node</text>
+    </g>
+
+    <!-- Cell 4: Code Explorer -->
+    <g class="t-cell" transform="translate(226, 74)">
+      <rect width="206" height="62" rx="10" fill="#1b1433" stroke="#7c4dff" stroke-opacity="0.4" stroke-width="1"/>
+      <circle cx="32" cy="31" r="18" fill="#7c4dff" filter="url(#glowTrophy)"/>
+      <text x="32" y="37" text-anchor="middle" font-size="16">🌟</text>
+      <text x="60" y="27" class="t-name">Code Explorer</text>
+      <text x="60" y="44" class="t-rank">Continuous Learner</text>
+    </g>
+  </g>
+</svg>

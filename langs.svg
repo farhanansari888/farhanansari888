@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="220" viewBox="0 0 480 220">
+  <defs>
+    <linearGradient id="cardBgLangs" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#120e24" />
+      <stop offset="100%" stop-color="#0b0817" />
+    </linearGradient>
+
+    <!-- Language Colors -->
+    <linearGradient id="kotlinGrad" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color="#7f52ff"/><stop offset="100%" stop-color="#e8488b"/></linearGradient>
+    <linearGradient id="jsGrad" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color="#f7df1e"/><stop offset="100%" stop-color="#ffb300"/></linearGradient>
+    <linearGradient id="tsGrad" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color="#3178c6"/><stop offset="100%" stop-color="#00f2fe"/></linearGradient>
+    <linearGradient id="htmlGrad" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color="#e34f26"/><stop offset="100%" stop-color="#ff4081"/></linearGradient>
+    <linearGradient id="javaGrad" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color="#5382a1"/><stop offset="100%" stop-color="#e76f51"/></linearGradient>
+  </defs>
+
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@600;700&amp;family=Outfit:wght@600;800&amp;display=swap');
+    .title-langs { font-family: 'Outfit', sans-serif; font-size: 18px; font-weight: 800; fill: #00f2fe; }
+    .lang-name { font-family: 'Fira Code', monospace; font-size: 13px; fill: #f8f8f2; font-weight: 600; }
+    .lang-pct { font-family: 'Fira Code', monospace; font-size: 12px; fill: #ff79c6; font-weight: 700; }
+
+    @keyframes expandBar {
+      from { width: 0px; }
+    }
+    .bar-anim { animation: expandBar 1.5s ease-out forwards; }
+  </style>
+
+  <rect width="480" height="220" rx="16" fill="url(#cardBgLangs)" stroke="#00f2fe" stroke-opacity="0.3" stroke-width="1.5"/>
+
+  <!-- Title -->
+  <text x="24" y="36" class="title-langs">🚀 MOST USED LANGUAGES</text>
+  <line x1="24" y1="48" x2="456" y2="48" stroke="#ffffff" stroke-opacity="0.1" stroke-width="1" />
+
+  <!-- Language Bars -->
+  <g transform="translate(24, 62)">
+    <!-- Kotlin 35% -->
+    <g transform="translate(0, 0)">
+      <text class="lang-name" y="12">Kotlin (Android)</text>
+      <text class="lang-pct" x="408" y="12">35%</text>
+      <rect x="0" y="20" width="408" height="10" rx="5" fill="#201736" />
+      <rect class="bar-anim" x="0" y="20" width="142" height="10" rx="5" fill="url(#kotlinGrad)" />
+    </g>
+
+    <!-- JavaScript 25% -->
+    <g transform="translate(0, 36)">
+      <text class="lang-name" y="12">JavaScript</text>
+      <text class="lang-pct" x="408" y="12">25%</text>
+      <rect x="0" y="20" width="408" height="10" rx="5" fill="#201736" />
+      <rect class="bar-anim" x="0" y="20" width="102" height="10" rx="5" fill="url(#jsGrad)" />
+    </g>
+
+    <!-- TypeScript / React 20% -->
+    <g transform="translate(0, 72)">
+      <text class="lang-name" y="12">TypeScript / React</text>
+      <text class="lang-pct" x="408" y="12">20%</text>
+      <rect x="0" y="20" width="408" height="10" rx="5" fill="#201736" />
+      <rect class="bar-anim" x="0" y="20" width="81" height="10" rx="5" fill="url(#tsGrad)" />
+    </g>
+
+    <!-- HTML / CSS 12% -->
+    <g transform="translate(0, 108)">
+      <text class="lang-name" y="12">HTML &amp; CSS</text>
+      <text class="lang-pct" x="408" y="12">12%</text>
+      <rect x="0" y="20" width="408" height="10" rx="5" fill="#201736" />
+      <rect class="bar-anim" x="0" y="20" width="49" height="10" rx="5" fill="url(#htmlGrad)" />
+    </g>
+  </g>
+</svg>

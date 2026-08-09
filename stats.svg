@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="220" viewBox="0 0 480 220">
+  <defs>
+    <linearGradient id="cardBgStats" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#120e24" />
+      <stop offset="100%" stop-color="#0b0817" />
+    </linearGradient>
+    <linearGradient id="rankGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ff4081" />
+      <stop offset="100%" stop-color="#7c4dff" />
+    </linearGradient>
+    <filter id="glowStats" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="4" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@600;700&amp;family=Outfit:wght@600;700;800&amp;display=swap');
+    .title-stats { font-family: 'Outfit', sans-serif; font-size: 18px; font-weight: 800; fill: #ff79c6; }
+    .label-stat { font-family: 'Fira Code', monospace; font-size: 13px; fill: #f8f8f2; font-weight: 600; }
+    .value-stat { font-family: 'Fira Code', monospace; font-size: 14px; fill: #00f2fe; font-weight: 700; }
+    .rank-text { font-family: 'Outfit', sans-serif; font-size: 32px; font-weight: 800; fill: #ffffff; }
+
+    @keyframes ringFill {
+      from { stroke-dashoffset: 350; }
+      to { stroke-dashoffset: 50; }
+    }
+    .rank-ring {
+      stroke-dasharray: 350;
+      stroke-dashoffset: 350;
+      animation: ringFill 2s ease-out forwards;
+    }
+  </style>
+
+  <rect width="480" height="220" rx="16" fill="url(#cardBgStats)" stroke="#ff4081" stroke-opacity="0.3" stroke-width="1.5"/>
+
+  <!-- Title -->
+  <text x="24" y="36" class="title-stats">⚡ FARHAN'S GITHUB STATS</text>
+  <line x1="24" y1="48" x2="456" y2="48" stroke="#ffffff" stroke-opacity="0.1" stroke-width="1" />
+
+  <!-- Left Stats Rows -->
+  <g transform="translate(24, 75)">
+    <!-- Commits -->
+    <g transform="translate(0, 0)">
+      <text class="label-stat" y="12">Total Commits (2026):</text>
+      <text class="value-stat" x="220" y="12">1,248+</text>
+    </g>
+    <!-- Pull Requests -->
+    <g transform="translate(0, 32)">
+      <text class="label-stat" y="12">Pull Requests:</text>
+      <text class="value-stat" x="220" y="12">184</text>
+    </g>
+    <!-- Total Stars -->
+    <g transform="translate(0, 64)">
+      <text class="label-stat" y="12">Total Stars Earned:</text>
+      <text class="value-stat" x="220" y="12">320+</text>
+    </g>
+    <!-- Contributed To -->
+    <g transform="translate(0, 96)">
+      <text class="label-stat" y="12">Contributed To:</text>
+      <text class="value-stat" x="220" y="12">28 Repos</text>
+    </g>
+  </g>
+
+  <!-- Right Rank Ring -->
+  <g transform="translate(390, 130)">
+    <circle cx="0" cy="0" r="48" fill="none" stroke="#22193b" stroke-width="8"/>
+    <circle class="rank-ring" cx="0" cy="0" r="48" fill="none" stroke="url(#rankGrad)" stroke-width="8" stroke-linecap="round" filter="url(#glowStats)" transform="rotate(-90)"/>
+    <text text-anchor="middle" y="10" class="rank-text" filter="url(#glowStats)">S+</text>
+  </g>
+</svg>
