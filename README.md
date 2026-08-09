@@ -2,15 +2,15 @@
 
   <!-- Auto Dark / Light Mode Banner Switching via <picture> tag -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="banner.svg?v=2">
-    <source media="(prefers-color-scheme: light)" srcset="banner-light.svg?v=2">
-    <img alt="Farhan Ansari Banner" src="banner.svg?v=2" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="banner.svg?v=3">
+    <source media="(prefers-color-scheme: light)" srcset="banner-light.svg?v=3">
+    <img alt="Farhan Ansari Banner" src="banner.svg?v=3" width="100%">
   </picture>
 
   <br><br>
 
   <!-- Interactive Pendulum Lanyard Badge -->
-  <img src="lanyard.svg?v=2" alt="Farhan Ansari Interactive ID Badge" width="380">
+  <img src="lanyard.svg?v=3" alt="Farhan Ansari Interactive ID Badge" width="380">
 
   <br><br>
 
@@ -37,15 +37,15 @@
   <h2>📊 Performance & Metrics</h2>
   <table border="0">
     <tr>
-      <td><img src="stats.svg?v=2" alt="Farhan's GitHub Stats" width="450"></td>
-      <td><img src="langs.svg?v=2" alt="Farhan's Top Languages" width="450"></td>
+      <td><img src="stats.svg?v=3" alt="Farhan's GitHub Stats" width="450"></td>
+      <td><img src="langs.svg?v=3" alt="Farhan's Top Languages" width="450"></td>
     </tr>
   </table>
 
   <br>
 
   <!-- Achievements Trophies Card -->
-  <img src="trophies.svg?v=2" alt="Farhan's GitHub Trophies" width="700">
+  <img src="trophies.svg?v=3" alt="Farhan's GitHub Trophies" width="700">
 
   <br><br>
 
