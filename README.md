@@ -2,9 +2,9 @@
 
   <!-- Auto Dark / Light Mode Banner Switching via <picture> tag -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="banner.svg?v=5">
-    <source media="(prefers-color-scheme: light)" srcset="banner-light.svg?v=5">
-    <img alt="Farhan Ansari Banner" src="banner.svg?v=5" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="banner.svg?v=6">
+    <source media="(prefers-color-scheme: light)" srcset="banner-light.svg?v=6">
+    <img alt="Farhan Ansari Banner" src="banner.svg?v=6" width="100%">
   </picture>
 
   <!-- Profile Visitor Counter & Badges -->
@@ -30,15 +30,15 @@
   <h2>📊 Performance & Metrics</h2>
   <table border="0">
     <tr>
-      <td><img src="stats.svg?v=5" alt="Farhan's GitHub Stats" width="450"></td>
-      <td><img src="langs.svg?v=5" alt="Farhan's Top Languages" width="450"></td>
+      <td><img src="stats.svg?v=6" alt="Farhan's GitHub Stats" width="450"></td>
+      <td><img src="langs.svg?v=6" alt="Farhan's Top Languages" width="450"></td>
     </tr>
   </table>
 
   <br>
 
   <!-- Achievements Trophies Card -->
-  <img src="trophies.svg?v=5" alt="Farhan's GitHub Trophies" width="700">
+  <img src="trophies.svg?v=6" alt="Farhan's GitHub Trophies" width="700">
 
   <br><br>
 
@@ -55,22 +55,28 @@
     </thead>
     <tbody>
       <tr>
-        <td><b>📱 Android Food Delivery App</b></td>
-        <td>Modern Android app with real-time tracking, clean architecture, and Compose UI.</td>
-        <td><code>Kotlin</code> <code>Compose</code> <code>Firebase</code></td>
-        <td><a href="https://github.com/farhanansari888">View Repo</a></td>
+        <td><b>🎵 SnapTune</b></td>
+        <td>Feature-rich music streaming & audio player application for Android and Web.</td>
+        <td><code>Kotlin</code> <code>Android</code> <code>React</code> <code>JS</code></td>
+        <td><a href="https://github.com/farhanansari888/SnapTune">View Repo</a></td>
       </tr>
       <tr>
-        <td><b>⚡ Full Stack Restaurant Suite</b></td>
-        <td>Interactive restaurant management platform with live order dashboard & payment portal.</td>
-        <td><code>React</code> <code>Next.js</code> <code>Node.js</code> <code>MongoDB</code></td>
-        <td><a href="https://github.com/farhanansari888">View Repo</a></td>
+        <td><b>⚡ SmartTunnelScript</b></td>
+        <td>Automated network tunneling, proxy configuration, and connection automation script suite.</td>
+        <td><code>Python</code> <code>Bash</code> <code>Networking</code> <code>Shell</code></td>
+        <td><a href="https://github.com/farhanansari888/SmartTunnel_Script">View Repo</a></td>
       </tr>
       <tr>
-        <td><b>🎨 Animated Developer Portfolio</b></td>
-        <td>Next-gen portfolio website featuring dark cyber graphics and smooth animations.</td>
-        <td><code>Next.js</code> <code>Tailwind</code> <code>Framer Motion</code></td>
-        <td><a href="https://github.com/farhanansari888">View Repo</a></td>
+        <td><b>🌐 ANSA</b></td>
+        <td>Full-stack web application and automated management platform.</td>
+        <td><code>React</code> <code>Node.js</code> <code>Express</code> <code>MongoDB</code></td>
+        <td><a href="https://github.com/farhanansari888/ANSA">View Repo</a></td>
+      </tr>
+      <tr>
+        <td><b>🎨 Farhan Ansari Portfolio</b></td>
+        <td>Personal developer portfolio website showcasing interactive web & mobile projects.</td>
+        <td><code>HTML</code> <code>CSS</code> <code>JavaScript</code> <code>React</code></td>
+        <td><a href="https://github.com/farhanansari888/Portfolio">View Repo</a></td>
       </tr>
     </tbody>
   </table>
