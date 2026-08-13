@@ -64,7 +64,7 @@
         <td><b>⚡ SmartTunnelScript</b></td>
         <td>Automated network tunneling, proxy configuration, and connection automation script suite.</td>
         <td><code>Python</code> <code>Bash</code> <code>Networking</code> <code>Shell</code></td>
-        <td><a href="https://github.com/farhanansari888/SmartTunnel_Script">View Repo</a></td>
+        <td><a href="https://github.com/farhanansari888/SmartTunnelScript">View Repo</a></td>
       </tr>
       <tr>
         <td><b>🌐 ANSA</b></td>
