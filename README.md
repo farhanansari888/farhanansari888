@@ -26,22 +26,6 @@
 
   <br>
 
-  <!-- Local Animated Stat Cards Section -->
-  <h2>📊 Performance & Metrics</h2>
-  <table border="0">
-    <tr>
-      <td><img src="stats.svg?v=6" alt="Farhan's GitHub Stats" width="450"></td>
-      <td><img src="langs.svg?v=6" alt="Farhan's Top Languages" width="450"></td>
-    </tr>
-  </table>
-
-  <br>
-
-  <!-- Achievements Trophies Card -->
-  <img src="trophies.svg?v=6" alt="Farhan's GitHub Trophies" width="700">
-
-  <br><br>
-
   <!-- Featured Projects Table -->
   <h2>🚀 Featured Projects</h2>
   <table>
