@@ -30,11 +30,6 @@
 
 I'm **Farhan Ansari** — an Android and full-stack developer who enjoys turning ideas into real products. Lately, I'm learning about **AI agents**, exploring new app technologies, and building apps, webpages, and tools from scratch.
 
-```text
-Android · Full Stack · AI Agents
-Idea → design → code → ship
-```
-
 ## Currently Brewing ☕
 
 Exploring **AI agents**, building Android apps with modern technologies, and creating responsive web projects from scratch.
