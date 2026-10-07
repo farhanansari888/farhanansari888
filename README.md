@@ -1,19 +1,19 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/farhanansari888/farhanansari888/main/farhan-cozy-header.svg" width="100%" alt="Farhan Ansari — Android, full-stack, and AI agent development">
+<img src="https://raw.githubusercontent.com/farhanansari888/farhanansari888/main/farhan-hero.svg" width="100%" alt="Farhan Ansari — Android, full-stack, and AI agent development">
 
 <br>
 
 <a href="https://ansarixfarhan.cloud">
-  <img src="./assets/portfolio-button.svg" width="190" alt="Portfolio">
+  <img src="./assets/portfolio-button.svg" width="210" alt="Portfolio">
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/farhanansari888">
-  <img src="./assets/github-button.svg" width="190" alt="GitHub">
+  <img src="./assets/github-button.svg" width="210" alt="GitHub">
 </a>
 &nbsp;&nbsp;
 <a href="mailto:ansarixfarhan@gmail.com">
-  <img src="./assets/hello-button.svg" width="190" alt="Say hello">
+  <img src="./assets/hello-button.svg" width="210" alt="Say hello">
 </a>
 
 </div>
