@@ -159,12 +159,4 @@ I like exploring ideas across **mobile apps, websites, automation, and AI**—an
 
 [**Portfolio ✦**](https://ansarixfarhan.cloud) · [**GitHub </>**](https://github.com/farhanansari888) · [**LinkedIn ↗**](https://www.linkedin.com/in/ansarixfarhan/) · [**Email ✉**](mailto:farhanansari8560@gmail.com)
 
-<br><br>
-
-☕ **say hello over coffee**
-
-<br>
-
-<sub>made with curiosity · code · caffeine</sub>
-
 </div>
