@@ -12,7 +12,7 @@
   <img src="./assets/github-button.svg" width="210" alt="GitHub">
 </a>
 &nbsp;&nbsp;
-<a href="mailto:ansarixfarhan@gmail.com">
+<a href="mailto:farhanansari8560@gmail.com">
   <img src="./assets/hello-button.svg" width="210" alt="Say hello">
 </a>
 
@@ -157,7 +157,7 @@ I like exploring ideas across **mobile apps, websites, automation, and AI**—an
 
 <div align="center">
 
-[**Portfolio ✦**](https://ansarixfarhan.cloud) · [**GitHub </>**](https://github.com/farhanansari888) · [**LinkedIn ↗**](https://www.linkedin.com/in/ansarixfarhan/) · [**Email ✉**](mailto:ansarixfarhan@gmail.com)
+[**Portfolio ✦**](https://ansarixfarhan.cloud) · [**GitHub </>**](https://github.com/farhanansari888) · [**LinkedIn ↗**](https://www.linkedin.com/in/ansarixfarhan/) · [**Email ✉**](mailto:farhanansari8560@gmail.com)
 
 <br><br>
 
