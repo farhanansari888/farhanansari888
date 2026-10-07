@@ -37,12 +37,7 @@ Idea → design → code → ship
 
 ## Currently Brewing ☕
 
-| | |
-|---|---|
-| **AI agents** | Exploring agentic workflows, LLM integrations, and automation |
-| **App development** | Building Android apps with modern technologies |
-| **Web development** | Creating responsive webpages and full-stack projects |
-| **Build from scratch** | Taking ideas from first sketch to working product |
+Exploring **AI agents**, building Android apps with modern technologies, and creating responsive web projects from scratch.
 
 ---
 
