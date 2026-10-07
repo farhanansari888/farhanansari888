@@ -1,51 +1,50 @@
 <div align="center">
 
-<img src="./farhan-hero.svg" width="100%" alt="Farhan Ansari — Developer Builder Learner">
+# Hey, I'm Farhan Ansari 👋
 
-<br><br>
+### Android & Full-Stack Developer · Builder · AI Explorer
+
+I turn ideas into useful apps, websites, and tools. Right now, I'm exploring **AI agents** and building products from the ground up.
+
+<br>
 
 <a href="https://ansarixfarhan.cloud">
-  <img src="https://img.shields.io/badge/PORTFOLIO-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
+  <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
 </a>
 &nbsp;
 <a href="https://github.com/farhanansari888">
-  <img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/ansarixfarhan/">
+  <img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 &nbsp;
 <a href="mailto:ansarixfarhan@gmail.com">
-  <img src="https://img.shields.io/badge/SAY%20HELLO-111827?style=for-the-badge&logo=gmail&logoColor=white" alt="Say Hello">
+  <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 
 </div>
 
 ---
 
-## ⚡ About Me
+## About Me
 
-<div align="center">
+- 📱 I build Android apps and enjoy exploring new tools and technologies.
+- 🌐 I create responsive websites and full-stack projects.
+- 🤖 I'm currently learning about AI agents, LLM integrations, and automation.
+- 🛠️ I like taking an idea from design through implementation and into a working product.
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2600&pause=700&color=7C3AED&center=true&vCenter=true&width=760&height=60&lines=Android+Developer;Full+Stack+Developer;Learning+AI+Agents;Building+From+Scratch" alt="Typing animation">
+## What I'm Exploring
 
-</div>
-
-I'm **Farhan Ansari** — an Android & full-stack developer who enjoys turning ideas into real products.
-
-Currently, I'm learning **AI Agents**, mastering **app development with new technologies**, and building **apps, webpages and tools from scratch**.
-
----
-
-## 🧠 Currently Exploring
-
-| Focus | What I'm doing |
+| Focus | Currently working on |
 |---|---|
-| 🤖 **AI Agents** | Agentic workflows, LLM integrations and automation |
-| 📱 **App Development** | Android apps and modern development technologies |
-| 🌐 **Web Development** | Webpages, dashboards and full-stack products |
-| 🛠️ **Build From Scratch** | Idea → design → code → working product |
+| **AI agents** | Agentic workflows, LLM integrations, and automation |
+| **Android development** | Building apps with modern Android technologies |
+| **Web development** | Websites, interfaces, and full-stack products |
+| **Product building** | Turning ideas into useful things people can try |
 
----
-
-## 🚀 Featured Projects
+## Featured Projects
 
 <table>
 <tr>
@@ -53,22 +52,22 @@ Currently, I'm learning **AI Agents**, mastering **app development with new tech
 
 ### 🎵 SnapTune
 
-Modern Android music client.
+A modern Android music client.
 
 **Kotlin · Android · Jetpack Compose**
 
-<a href="https://github.com/farhanansari888/SnapTune">View Project →</a>
+[View project →](https://github.com/farhanansari888/SnapTune)
 
 </td>
 <td width="50%" valign="top">
 
 ### 🎬 SnapFlix
 
-Movie-focused application exploring a modern streaming-style experience.
+A movie-focused app exploring a modern streaming-style experience.
 
 **Android · APIs · Web · Backend**
 
-<a href="https://github.com/farhanansari888/SnapFlix">View Project →</a>
+[View project →](https://github.com/farhanansari888/SnapFlix)
 
 </td>
 </tr>
@@ -77,85 +76,60 @@ Movie-focused application exploring a modern streaming-style experience.
 
 ### 🌐 ANSA
 
-Modern fashion/web project with responsive visual design.
+A fashion and web project with a responsive visual experience.
 
 **React · Tailwind · Framer Motion**
 
-<a href="https://github.com/farhanansari888/ANSA">View Project →</a>
+[View project →](https://github.com/farhanansari888/ANSA)
 
 </td>
 <td width="50%" valign="top">
 
 ### ⚡ SmartTunnelScript
 
-Networking and connection automation toolkit.
+A networking and connection automation toolkit.
 
 **Python · Bash · Networking**
 
-<a href="https://github.com/farhanansari888/SmartTunnelScript">View Project →</a>
+[View project →](https://github.com/farhanansari888/SmartTunnelScript)
 
 </td>
 </tr>
 </table>
 
----
-
-## 🧰 My Toolkit
+## Tech I Use
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=kotlin,androidstudio,gradle,react,nextjs,js,ts,nodejs,tailwind,supabase,postgres,python,git,github,vscode" alt="Tech stack">
+<img src="https://skillicons.dev/icons?i=kotlin,androidstudio,gradle,react,nextjs,js,ts,nodejs,tailwind,supabase,postgres,python,git,github,vscode" alt="Technologies: Kotlin, Android Studio, Gradle, React, Next.js, JavaScript, TypeScript, Node.js, Tailwind CSS, Supabase, PostgreSQL, Python, Git, GitHub, and VS Code">
 
 </div>
 
----
-
-## 🧪 What I Like Building
-
-<div align="center">
-
-**Apps** · **Websites** · **Developer Tools** · **AI Experiments**
-
-<br><br>
-
-<code>IDEA → DESIGN → CODE → DEBUG → SHIP → REPEAT</code>
-
-</div>
-
----
-
-## 🐍 GitHub Activity
+## GitHub Activity
 
 <div align="center">
 
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/farhanansari888/farhanansari888/output/github-contribution-grid-snake-dark.svg">
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/farhanansari888/farhanansari888/output/github-contribution-grid-snake.svg">
-<img src="https://raw.githubusercontent.com/farhanansari888/farhanansari888/output/github-contribution-grid-snake.svg" width="100%" alt="Farhan's contribution snake">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/farhanansari888/farhanansari888/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/farhanansari888/farhanansari888/output/github-contribution-grid-snake.svg">
+  <img src="https://raw.githubusercontent.com/farhanansari888/farhanansari888/output/github-contribution-grid-snake.svg" width="100%" alt="GitHub contribution activity">
 </picture>
 
 </div>
 
----
+## A Little About My Approach
 
-## 🌱 Current Mindset
+> Don't just learn technology. Build something with it.
 
-> **Don't just learn technology. Build something with it.**
-
-I'm always experimenting with new ideas — from mobile apps and webpages to automation tools and AI experiments.
+I enjoy experimenting with ideas across mobile, web, automation, and AI—and learning by shipping projects.
 
 ---
-
-## 🌐 Let's Connect
 
 <div align="center">
 
-<a href="https://ansarixfarhan.cloud">Portfolio</a> ·
-<a href="https://github.com/farhanansari888">GitHub</a> ·
-<a href="https://www.linkedin.com/in/ansarixfarhan/">LinkedIn</a> ·
-<a href="mailto:ansarixfarhan@gmail.com">Email</a>
+**IDEA → DESIGN → CODE → DEBUG → SHIP → REPEAT**
 
-<br><br>
+<br>
 
 <sub>Built with curiosity · code · caffeine</sub>
 
